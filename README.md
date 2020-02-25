@@ -58,7 +58,7 @@ eureka.client.service-url.defaultZone=http://localhost:8761/eureka
 
 Now we access to [http://localhost:8080/actuator/hystrix](http://localhost:8080/actuator/hystrix) set URL is [http://localhost:8080/actuator/hystrix.stream](http://localhost:8080/actuator/hystrix.stream). We will see below image.
 
-![Hystrix Dasdboard Single](res/hystrix-dashboard-single.png)
+![Hystrix Dasdboard Single](./res/hystrix-dashboard-single.png)
 
 ## Turbine for Hystrix Matrix Stream
 
